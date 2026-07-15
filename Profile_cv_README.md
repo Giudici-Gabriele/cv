@@ -43,8 +43,8 @@ Nei vari repo troverete alcuni script Python e tool che ho creato per automatizz
 - Internship come Business Analyst in Alten, a diretto riporto del CEO South Europe: mi occupavo di analisi su specifiche richieste del CEO e della preparazione delle business review mensili per Italia, Spagna, Svizzera e Portogallo tramite Power BI. Gestivo inoltre le riunioni sugli intercontractor (consulenti non allocati su progetti), con l'obiettivo di monitorarli e tenerne sotto controllo l'impatto sul P&L.
 
 ## 📫 Contatti
-🌐 giudicigabriele.com
-💼 LinkedIn
+🌐 [giudicigabriele.com](https://giudicigabriele.com)
+💼 [LinkedIn](www.linkedin.com/in/gabriele-giudici04)
 ✉️ giudicigabriele00@gmail.com
 
 
