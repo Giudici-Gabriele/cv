@@ -25,7 +25,7 @@ Lungo il percorso ho anche ripensato il modo in cui il lavoro viene svolto:
 
 Bidster è nato come la mia palestra per imparare sul campo lo sviluppo assistito dall'AI, prima con Codex, poi con Claude Code. 
 
-È cresciuto fino a diventare un prodotto vero: una piattaforma SaaS B2B che monitora le gare pubbliche italiane su più portali di procurement e le abbina ai profili dei clienti tramite un motore di scoring trasparente. 
+È stato raggiunto lo stadio di mvp testeto con un cliente in demo: una piattaforma SaaS B2B che monitora le gare pubbliche italiane su più portali di procurement e le abbina ai profili dei clienti tramite un motore di scoring trasparente. 
 
 Backend: FastAPI + PostgreSQL, deploy su VPS con PM2 + nginx
 Data pipeline: workflow n8n che ingeriscono dati dalle piattaforme di procurement regionali (SINTEL Regione Lombardia via SODA API, DigitalPA, portali provinciali, open data ANAC)
