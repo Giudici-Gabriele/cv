@@ -1,34 +1,18 @@
 # Gabriele Giudici
 
-
-
 Varese/Milan, Italy 🇮🇹
-
-
 
 I aim to build my career where finance and operations meet: in a company where operational efficiency translates directly into financial results.
 
-
-
 In a results-driven company, where knowledge is challenged and nothing is taken for granted. In a company that understands the importance of data and how data cannot be analyzed without deeply understanding the context that generated it. In such a pivotal period of transition, I would love to be part of a company set to have an impact on other businesses for years to come.
 
-
-
 In my roles I discovered that I enjoy studying processes and driving efficiency. 
-
-
-
-
 
 Adapting Tolstoy in Anna Karenina: "successful companies are all alike; every failing company fails in its own way".
 
 I wrote my thesis on the wise company: on how businesses must be able to move knowledge through their processes in order to last over time. And just like in Anna Karenina, every company needs to pass the checks on all the essential points to work — I would like to do my part in making sure those checks get done.
 
-#### 
-
-#### Current role
-
-
+## Current role
 
 I currently work in credit management for a consulting company; our clients are SMEs with revenues between €10M and €50M. I manage the pre-litigation credit cycle, from the first reminder through the insolvency procedures under the Italian Codice della Crisi (€300k+ recovered on a €900k+ portfolio).
 
@@ -38,16 +22,13 @@ Along the way, I also rethought how the work gets done:
 * Automated the entire verification workflow on debtor positions
 
 
+## Other projects
 
-#### Other projects
+### Bidster — Procurement intelligence for Italian SMEs
 
+Bidster started as my sandbox to learn AI-assisted development hands-on — first with Codex, then with Claude Code. 
 
-
-##### Bidster — Procurement intelligence for Italian SMEs
-
-Bidster started as my sandbox to learn AI-assisted development hands-on — first with Codex, then with Claude Code. It grew into a real product: a B2B SaaS platform that monitors Italian public tenders across multiple procurement portals and matches them to client profiles through a transparent scoring engine. Live in production with paying clients at app.bidster.it.
-
-
+It grew into a real mvp, tested with a client: a B2B SaaS platform that monitors Italian public tenders across multiple procurement portals and matches them to client profiles through a transparent scoring engine. Live in production with paying clients at app.bidster.it.
 
 Backend: FastAPI + PostgreSQL, deployed on a VPS with PM2 + nginx
 
@@ -60,23 +41,16 @@ CI/CD: three-branch GitHub strategy with GitHub Actions, preview and staging env
 The core repository is private (commercial product).
 
 
-
-##### Automation
+### Automation
 
 Across my repos you will find some Python scripts and tools I built to automate tasks I perform more or less regularly. Not all of them are there: some, due to non-disclosure agreements, I cannot share.
 
-
-
-#### 📚 Background
-
-
+## 📚 Background
 
 * Logos project, supported at the ComoNEXT incubator through the CLab program: after presenting the project to the incubator, I was mentored through the early stages, in which we prepared the pitch deck and the value proposition, conducted interviews with potential clients to identify pain points, built the first team with the advisors, and carried out the market analysis.
 * Business Analyst internship at Alten, reporting directly to the CEO South Europe: I worked on analyses requested directly by the CEO and prepared the monthly business reviews for Italy, Spain, Switzerland and Portugal using Power BI. I also managed the meetings on intercontractors (consultants not allocated to projects), with the goal of monitoring them and keeping their impact on the P\&L under control.
 
-
-
-#### 📫 Contact
+## 📫 Contact
 
 🌐 [giudicigabriele.com](https://giudicigabriele.com)
 💼 [LinkedIn](www.linkedin.com/in/gabriele-giudici04)
