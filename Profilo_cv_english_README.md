@@ -78,10 +78,8 @@ Across my repos you will find some Python scripts and tools I built to automate 
 
 #### 📫 Contact
 
-🌐 giudicigabriele.com
-
-💼 LinkedIn
-
+🌐 [giudicigabriele.com](https://giudicigabriele.com)
+💼 [LinkedIn](www.linkedin.com/in/gabriele-giudici04)
 ✉️ giudicigabriele00@gmail.com
 
 
